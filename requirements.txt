@@ -1,0 +1,4 @@
+html2text==2018.1.9
+markovify==0.7.1
+requests==2.21.0
+tweepy==3.7.0
